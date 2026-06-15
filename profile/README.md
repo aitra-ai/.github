@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Aitra is a collection of open-source projects for AI inference observability.
+  Aitra is a collection of open-source projects for AI inference efficiency and attribution.
   Use it to measure, attribute, and act on energy consumption across GPU infrastructure —
   turning raw hardware telemetry into the operational intelligence that infrastructure,
   finance, and sustainability teams need.
