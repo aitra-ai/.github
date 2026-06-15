@@ -1,0 +1,2 @@
+# .github
+Aitra organization profile
