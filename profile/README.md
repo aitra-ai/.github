@@ -15,3 +15,25 @@
   <a href="https://github.com/aitra-ai/aitra-meter/blob/main/CONTRIBUTING.md">Contribute 😍</a> &middot;
   <a href="https://github.com/aitra-ai/aitra-meter">Try the Demo 🎓</a>
 </p>
+
+---
+
+<p align="center">
+  <sub>FOUNDED &amp; MAINTAINED BY</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.xfusion.com" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/aitra-ai/.github/main/profile/xfusion-logo.png" alt="XFusion" height="54" />
+  </a>
+</p>
+
+<p align="center">
+  The Aitra open-source community is founded and driven by the
+  <b>XFusion International R&amp;D Team</b> — bringing enterprise-grade AI infrastructure
+  into the open. We build and maintain the
+  <a href="https://github.com/aitra-ai/aitra-meter">aitra-meter</a> inference-energy
+  measurement core (Apache-2.0 · governed under SODA Foundation) and the broader Aitra
+  platform, and contribute them back to the cloud-native ecosystem
+  (Prometheus · OpenTelemetry · KEDA · OpenCost).
+</p>
