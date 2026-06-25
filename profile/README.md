@@ -24,10 +24,14 @@
 
 <p align="center">
   <a href="https://www.xfusion.com" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/aitra-ai/.github/main/profile/xfusion-logo.png" alt="xFusion" height="54" />
+    <img src="https://raw.githubusercontent.com/aitra-ai/.github/main/profile/xfusion-logo.png" alt="xFusion" width="200" />
   </a>
 </p>
 
 <p align="center">
   <sub>xFusion Singapore Open Lab</sub>
+</p>
+
+<p align="center">
+  <sub>Any opinions, findings, and conclusions of our works are those of the author(s) and do not necessarily represent the official policy of any of these organizations.</sub>
 </p>
